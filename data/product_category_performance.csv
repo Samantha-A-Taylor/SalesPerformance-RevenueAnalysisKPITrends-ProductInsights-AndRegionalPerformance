@@ -1,0 +1,37 @@
+product_category,region,year,total_revenue,total_profit
+Furniture,East,2022,207421.05,40560.36
+Furniture,Central,2022,186587.0,27622.61
+Furniture,West,2022,163523.4,37946.54
+Furniture,South,2022,161700.1,40748.15
+Technology,East,2022,145569.23,35243.44
+Technology,West,2022,84698.36,24063.32
+Technology,South,2022,81198.38,19229.56
+Technology,Central,2022,48890.57,13013.44
+Office Supplies,East,2022,3345.56,769.16
+Office Supplies,South,2022,3275.07,777.29
+Office Supplies,West,2022,3133.01,643.22
+Office Supplies,Central,2022,2786.19,598.54
+Furniture,West,2023,204937.3,48021.45
+Furniture,East,2023,161242.75,32623.1
+Furniture,Central,2023,160495.95,39933.82
+Technology,West,2023,143073.63,33415.79
+Technology,South,2023,118466.7,25447.79
+Furniture,South,2023,118089.2,23359.31
+Technology,East,2023,106362.67,24218.98
+Technology,Central,2023,104551.83,22451.58
+Office Supplies,East,2023,4706.07,910.14
+Office Supplies,Central,2023,4324.08,1035.62
+Office Supplies,West,2023,4048.76,969.02
+Office Supplies,South,2023,2905.19,740.38
+Furniture,East,2024,195697.35,48019.15
+Technology,South,2024,165076.54,39726.53
+Furniture,South,2024,151936.8,30608.05
+Furniture,Central,2024,151429.65,35992.13
+Technology,East,2024,136490.43,36325.01
+Technology,Central,2024,131146.5,34841.8
+Furniture,West,2024,119141.5,29220.79
+Technology,West,2024,98896.08,23036.8
+Office Supplies,South,2024,4248.1,902.71
+Office Supplies,West,2024,3410.8,875.22
+Office Supplies,Central,2024,3128.19,754.02
+Office Supplies,East,2024,3059.81,669.23
